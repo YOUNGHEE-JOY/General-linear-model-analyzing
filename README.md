@@ -1,8 +1,10 @@
 # General linear model 
 This is a statistical analysis report examining the impact of anxiety and community engagement on student academic performance. The report is divided into four sections to explain the data analysis process.
 
+
 Report 1 : 
  https://younghee-joy.github.io/General-linear-model-analyzing/GML_report/report1.html
+ 
 Report 2 : 
  https://younghee-joy.github.io/General-linear-model-analyzing/GML_report/report2.html
 # Analysis plan
